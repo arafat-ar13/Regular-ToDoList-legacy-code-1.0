@@ -1,5 +1,7 @@
 # Welcome to my ToDo List app: Regular ToDoList!!
 
+## This is the 1st version of my to-do list app and the code here is legacy and not maintained anymore. [View the latest and greatest app here](https://github.com/arafat-ar13/Regular-ToDoList)
+
 This is a todolist web app created using Django. This app is live and hosted for free by PythonAnywhere.
 The app has been solely developed by me (though with some CSS files from external sources).
 
